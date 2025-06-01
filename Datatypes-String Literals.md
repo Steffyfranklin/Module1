@@ -9,7 +9,15 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+```
+a=int(input())
+b=float(input())
+print(a,b)
+```
 
 ## Output
+![Screenshot 2025-04-29 111549](https://github.com/user-attachments/assets/ca7b41ed-2e7b-497e-bacc-67bb0b6f9791)
+
 
 ## Result
+The expected output is achieved 
