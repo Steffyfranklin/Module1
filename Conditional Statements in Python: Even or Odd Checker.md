@@ -1,18 +1,23 @@
-# Conditional Statements in Python: Even or Odd Checker
+# Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
-To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
+To write a Python program to read a string from the user and then print it.
 
 ## 🧠 Algorithm
-1. Get an input from the user.
-2. Convert the input to an integer and store it in a variable `a`.
-3. Use the modulo operator `%` to check if `a % 2 == 0`.
-   - If true, print `"EVEN"`.
-   - Else, print `"ODD"`.
-4. End the program.
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
 
 ## 🧾 Program
+```
+a=int(input())
+b=float(input())
+print(a,b)
+```
 
 ## Output
+![Screenshot 2025-04-29 111549](https://github.com/user-attachments/assets/ca7b41ed-2e7b-497e-bacc-67bb0b6f9791)
+
 
 ## Result
+The expected output is achieved 
